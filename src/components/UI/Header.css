@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+.main-title{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color:#f7f7f7;
+    margin-top: 25%;
+}
+
+@media(min-width:600px){
+    .main-title{
+        font-size: 3vh;
+    }
+}
+@media(min-width:768px){
+    .main-title{
+        font-size: 4vh;
+    }
+}
+@media(min-width:992px){
+    .main-title{
+        font-size: 5vh;
+    }
+}
+@media(min-width:1200px){
+    .main-title{
+        font-size: 7vh;
+    }
+}
